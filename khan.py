@@ -67,7 +67,7 @@ logo = """
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
 
 
-   IT’S NOT JUST A NAME. IT'S A BRAN🥀
+  IT’S NOT JUST A NAME. IT'S A BRAN🥀
    
    
 \033[1;93m\033[1;92m\033[1;93m \033[1;94m\033[1;95m\033[1;93m  \033[1;96m\033[1;93m \033[1;92m\033[1;95m
@@ -341,7 +341,7 @@ YOOo      OOO      oOOP
    `OOOOOI```IOOOOO'
     `OOOOI,,,IOOOO'
      `OOOOOOOOOOO'
-       `~OOOOO~'   KHAN-BROTHER 😎
+       `~OOOOO~'   KHAN-BROTHER 
 
 \033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo12 = """
@@ -3818,4 +3818,4 @@ def test4():
         print ('    Bad406')
           
 if __name__ == '__main__':
-	login(khan.py)
+	login()
