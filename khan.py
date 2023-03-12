@@ -3818,4 +3818,4 @@ def test4():
         print ('    Bad406')
           
 if __name__ == '__main__':
-	login()
+	login(khan.py)
