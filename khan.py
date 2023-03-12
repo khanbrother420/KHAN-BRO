@@ -1249,7 +1249,7 @@ def pilih_crack():
 : \033[1;91m ....KHAN-BROTHER....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 FACEBOOK 
-              \033[1;91mMr.KhanVau420"""
+              \033[1;91mMr.KhanVau420(rakib)"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
