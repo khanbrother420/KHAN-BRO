@@ -3817,5 +3817,5 @@ def test4():
     except Exception as f:         
         print ('    Bad406')
           
-if __name__ == '__main__':
+if __KHAN__ == '__main__':
 	login()
