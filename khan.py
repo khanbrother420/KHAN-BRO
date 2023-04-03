@@ -21,7 +21,7 @@ br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Buil
 def keluar():
 	print "\x1b[1;91mExit"
 	os.sys.exit()
-
+bn)
 def acak(b):
     w = 'ahtdzjc'
     d = ''
